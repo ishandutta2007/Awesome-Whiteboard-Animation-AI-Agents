@@ -21,14 +21,14 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS Products
 
-| Product | Focus | Description | Pricing | Free Tier Limit |
-| :--- | :--- | :--- | :--- | :--- |
-| **[Golpo AI (Gulpo AI)](https://golpo.ai/)** | Core Platform (Whiteboard AI Agents) | Intelligent AI agent specialized in creating whiteboard animations from text or scripts. | Starts at $39.99/mo | 1 credit/mo, no video downloads, watermarked |
-| **[Animaker Whiteboard 3.0](https://www.animaker.com/)** | Core Platform (Whiteboard AI Agents) | Powerful builder with AI features for scene generation and character animation. | Starts at $20/mo (or $10/mo annually) | Watermarked exports, limited templates, 2 custom characters/mo |
-| **[Renderforest](https://www.renderforest.com/)** | Core Platform (Whiteboard AI Agents) | AI-driven platform with whiteboard and explainer video templates and automation. | Starts at ~$14/mo | Watermarked videos, max 3 mins/video, 5 AI image credits |
-| **[DoodleMaker](https://doodlemaker.com/)** | Core Platform (Whiteboard AI Agents) | AI whiteboard animation tool focused on hand-drawn style explainer videos. | One-time $49 – $69 | No free tier or trial |
-| **[Vyond](https://www.vyond.com/)** | Advanced & Specialized | Enterprise-focused explainer video platform with professional whiteboard styles. | Starts at $699/yr (approx. $58/mo) | No free tier; trial limited to 3 watermarked videos, no downloads |
-| **[Powtoon](https://www.powtoon.com/)** | Advanced & Specialized | Visual communication platform with whiteboard styles and templates. | Starts at ~$15/mo (billed annually) | Watermarked exports, max 3 mins/video, 100 MB storage |
+| Product | Focus | Description | Pricing | Free Tier Limit | Company Size (Est. Revenue / Valuation) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **[Vyond](https://www.vyond.com/)** | Advanced & Specialized | Enterprise-focused explainer video platform with professional whiteboard styles. | Starts at $699/yr (approx. $58/mo) | No free tier; trial limited to 3 watermarked videos, no downloads | ~$100M Valuation / ~$100M Revenue |
+| **[Animaker Whiteboard 3.0](https://www.animaker.com/)** | Core Platform (Whiteboard AI Agents) | Powerful builder with AI features for scene generation and character animation. | Starts at $20/mo (or $10/mo annually) | Watermarked exports, limited templates, 2 custom characters/mo | ~$90M Valuation / ~$22M - $30M Revenue |
+| **[Powtoon](https://www.powtoon.com/)** | Advanced & Specialized | Visual communication platform with whiteboard styles and templates. | Starts at ~$15/mo (billed annually) | Watermarked exports, max 3 mins/video, 100 MB storage | ~$45.5M Valuation / ~$15.2M Revenue |
+| **[Renderforest](https://www.renderforest.com/)** | Core Platform (Whiteboard AI Agents) | AI-driven platform with whiteboard and explainer video templates and automation. | Starts at ~$14/mo | Watermarked videos, max 3 mins/video, 5 AI image credits | ~$31.7M Valuation / ~$10.5M Revenue |
+| **[DoodleMaker](https://doodlemaker.com/)** | Core Platform (Whiteboard AI Agents) | AI whiteboard animation tool focused on hand-drawn style explainer videos. | One-time $49 – $69 | No free tier or trial | ~$5M Valuation / ~$2M Revenue |
+| **[Golpo AI (Gulpo AI)](https://golpo.ai/)** | Core Platform (Whiteboard AI Agents) | Intelligent AI agent specialized in creating whiteboard animations from text or scripts. | Starts at $39.99/mo | 1 credit/mo, no video downloads, watermarked | ~$1.7M Valuation / ~$550K Revenue |
 
 
 ## Open-Source GitHub Projects
