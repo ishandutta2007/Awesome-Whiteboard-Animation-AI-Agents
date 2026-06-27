@@ -35,42 +35,44 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated Whiteboard Animation & AI Drawing Agents
 
-- **[Manim](https://github.com/3b1b/manim)**  
+- **[Manim](https://github.com/3b1b/manim)** [![Stars](https://img.shields.io/github/stars/3b1b/manim?style=social&color=white)](https://github.com/3b1b/manim/stargazers)  
   The famous open-source mathematical animation engine used by 3Blue1Brown. Perfect for creating high-quality whiteboard-style educational animations programmatically.
 
-- **[Manim Community](https://github.com/ManimCommunity/manim)**  
-  Active community fork of Manim with extensive features for educational and explanatory animations.
-
-- **[Blender Grease Pencil](https://github.com/blender/blender)**  
-  Powerful open-source 2D animation tool within Blender for hand-drawn and whiteboard-style animations.
-
-- **[OpenToonz](https://github.com/opentoonz/opentoonz)**  
-  Professional open-source 2D animation software with strong drawing and timeline tools suitable for whiteboard effects.
-
-- **[Synfig Studio](https://github.com/synfig/synfig)**  
-  Open-source 2D vector animation software with powerful bone rigging and cut-out animation capabilities.
-
-- **[Kdenlive](https://github.com/KDE/kdenlive)**  
-  Open-source video editor with drawing and animation tools that can be combined with AI for whiteboard effects.
-
-- **[Draw.io / Diagrams.net](https://github.com/jgraph/drawio)** with animation extensions  
-  Open-source diagramming tool often used for simple whiteboard-style explanatory animations.
-
-- **[LangGraph Whiteboard Agents](https://github.com/langchain-ai/langgraph)**  
-  Stateful multi-agent framework for building AI agents that generate and animate whiteboard content step-by-step.
-
-- **[CrewAI Animation Crews](https://github.com/crewAIInc/crewAI)**  
+- **[CrewAI Animation Crews](https://github.com/crewAIInc/crewAI)** [![Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
   Role-based multi-agent system for creating complete whiteboard animation workflows (script → storyboard → animation).
 
-- **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)**  
+- **[Manim Community](https://github.com/ManimCommunity/manim)** [![Stars](https://img.shields.io/github/stars/ManimCommunity/manim?style=social&color=white)](https://github.com/ManimCommunity/manim/stargazers)  
+  Active community fork of Manim with extensive features for educational and explanatory animations.
+
+- **[LangGraph Whiteboard Agents](https://github.com/langchain-ai/langgraph)** [![Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
+  Stateful multi-agent framework for building AI agents that generate and animate whiteboard content step-by-step.
+
+- **[Blender Grease Pencil](https://github.com/blender/blender)** [![Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)  
+  Powerful open-source 2D animation tool within Blender for hand-drawn and whiteboard-style animations.
+
+- **[Krita](https://github.com/KDE/krita)** [![Stars](https://img.shields.io/github/stars/KDE/krita?style=social&color=white)](https://github.com/KDE/krita/stargazers)  
+  Professional open-source painting and drawing software with animation and AI plugins for hand-drawn whiteboard effects.
+
+- **[OpenToonz](https://github.com/opentoonz/opentoonz)** [![Stars](https://img.shields.io/github/stars/opentoonz/opentoonz?style=social&color=white)](https://github.com/opentoonz/opentoonz/stargazers)  
+  Professional open-source 2D animation software with strong drawing and timeline tools suitable for whiteboard effects.
+
+- **[Draw.io / Diagrams.net](https://github.com/jgraph/drawio)** [![Stars](https://img.shields.io/github/stars/jgraph/drawio?style=social&color=white)](https://github.com/jgraph/drawio/stargazers) with animation extensions  
+  Open-source diagramming tool often used for simple whiteboard-style explanatory animations.
+
+- **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)** [![Stars](https://img.shields.io/github/stars/chaiNNer-org/chaiNNer?style=social&color=white)](https://github.com/chaiNNer-org/chaiNNer/stargazers)  
   Node-based GUI for chaining AI models including upscalers and animation tools for video output.
 
-### Additional Strong Open-Source Options
+- **[Kdenlive](https://github.com/KDE/kdenlive)** [![Stars](https://img.shields.io/github/stars/KDE/kdenlive?style=social&color=white)](https://github.com/KDE/kdenlive/stargazers)  
+  Open-source video editor with drawing and animation tools that can be combined with AI for whiteboard effects.
 
-- **[Stable Diffusion + ControlNet** for generating whiteboard-style frames.
-- **[AnimateDiff** for creating smooth animated sequences from generated images.
-- **[FFmpeg** scripts for assembling and optimizing final whiteboard videos.
-- **[Krita](https://github.com/KDE/krita)** with animation and AI plugins for hand-drawn effects.
+- **[Synfig Studio](https://github.com/synfig/synfig)** [![Stars](https://img.shields.io/github/stars/synfig/synfig?style=social&color=white)](https://github.com/synfig/synfig/stargazers)  
+  Open-source 2D vector animation software with powerful bone rigging and cut-out animation capabilities.
+
+### Additional Open-Source Tools & Pipelines
+
+- **Stable Diffusion + ControlNet** for generating whiteboard-style frames.
+- **AnimateDiff** for creating smooth animated sequences from generated images.
+- **FFmpeg** scripts for assembling and optimizing final whiteboard videos.
 - Many community **Manim + LLM** pipelines for text-to-whiteboard animation agents.
 
 **Frameworks for building custom agents**: Combine **Manim**, **Blender Grease Pencil**, **LangGraph**, and **CrewAI** with **Ollama** for fully local, intelligent whiteboard animation creation systems.
