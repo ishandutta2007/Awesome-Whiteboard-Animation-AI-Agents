@@ -1,17 +1,31 @@
-# Awesome-Whiteboard-Animation-AI-Agents
-## Top Whiteboard Animation Building AI Agents Ecosystem
+# Awesome Whiteboard Animation AI Agents 🎨🤖
+
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Whiteboard Animation AI Agents Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
+  <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+---
+
+## 🌟 Top Whiteboard Animation Building AI Agents Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on AI-Powered Whiteboard Animation, Explainer Videos & Drawing Agents*  
-**Last updated: March 2026**
+*Focused on AI-Powered Whiteboard Animation, Explainer Videos, Drawing Agents, and Video Generation Pipelines*  
+**Last updated: June 2026**
 
-This repository tracks notable **SaaS platforms** and **open-source projects** building **Whiteboard Animation AI Agents**. These tools automatically generate hand-drawn style animations, explainer videos, and educational content from text prompts, scripts, or outlines with smooth drawing effects and voiceover synchronization.
+This repository tracks notable **SaaS platforms** and **open-source projects** building **Whiteboard Animation AI Agents**. These tools automatically generate hand-drawn style animations, explainer videos, and educational content from text prompts, scripts, or outlines with smooth drawing effects, sketch transitions, and voiceover synchronization.
 
-**Examples** include Golpo AI (also known as Gulpo AI), Animaker Whiteboard 3.0, Renderforest, and DoodleMaker (the category leaders). Tools listed here emphasize **natural drawing simulation**, script-to-animation conversion, character consistency, and easy customization.
+✨ **Examples** include Golpo AI (also known as Gulpo AI), Animaker Whiteboard 3.0, Renderforest, and DoodleMaker. Tools listed here emphasize **natural drawing simulation**, script-to-animation conversion, character consistency, and easy customization.
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local execution, full customization, and unlimited creation — ideal for educators, content creators, and developers who want complete control over their whiteboard animations.
+💻 **Open-source emphasis**: This section is heavily expanded with active projects for self-hosting, local execution, full customization, and unlimited creation — ideal for educators, content creators, and developers who want complete control over their whiteboard animations.
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+🤝 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
 - [SaaS Products](#saas-products)
